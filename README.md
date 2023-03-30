@@ -7,8 +7,8 @@
 
 # Примеры кода
 ```
-<link rel="stylesheet" href="/resources/tab.css">
-    <script src="/resources/tab.js"></script>
+<link rel="stylesheet" href="/tab.css">
+    <script src="/tab.js"></script>
 ```
 ``` <div class="tab">
         <button class="tablinks" onclick="openTab(event, 'tab1')">Вкладка 1</button>

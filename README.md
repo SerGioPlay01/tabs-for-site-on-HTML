@@ -7,12 +7,12 @@
 
 # Примеры кода
 ```
-<link rel="stylesheet" href="/tab.css">
-    <script src="/tab.js"></script>
+<link rel="stylesheet" href="/tab.css"> <!--Подключаем CSS - файл к странице HTML-->
+    <script src="/tab.js"></script>       <!--Подключаем JS - файл к странице HTML-->
 ```
-``` <div class="tab">
+``` <div class="tab">  <!--Разметка для вкладки-->
         <button class="tablinks" onclick="openTab(event, 'tab1')">Вкладка 1</button>
-        <button class="tablinks" onclick="openTab(event, 'tab2')">Вкладка 2</button>
+        <button class="tablinks" onclick="openTab(event, 'tab2')">Вкладка 2</button> 
         <button class="tablinks" onclick="openTab(event, 'tab3')">Вкладка 3</button>
       </div>
       

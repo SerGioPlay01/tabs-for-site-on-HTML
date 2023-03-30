@@ -41,4 +41,4 @@
 # Контакты
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной по электронной почте: sergeskliarov@yandex.ru.
 
-[![](https://visitcount.itsvg.in/api?id=SerGioPlay01&icon=3&color=7)](https://visitcount.itsvg.in)
+
